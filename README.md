@@ -1,24 +1,5 @@
 # E-commerce_website-in-java
-
-
-## E - COMMERCE WEB PROJECT IN SPRING BOOT
-
-
-
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
-[![Isses][issues-shield]][issues-url]
-
--->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<br>
-<h3>currently working on  New Branch(https://github.com/jaygajera17/E-commerce-project-springBoot/tree/master2) for Integrated Hibernate, services, based well structured code.</h3>
-
-
-
-
+<a href="https://github.com/vamshi-chinna/E-commerce-">e-comerce site<a>
 ## Features
 - ⚙️Spring Mvc, JDBC , Jsp Servlet
 - 📝ADMIN MODULE + USER MODULE
@@ -68,11 +49,8 @@ ADMIN Module (http://localhost:8080/admin)
 -  Note(above default username and password , it can be change in the database)
 
   User module
--  user name:- jay 
+-  user name:- vamshi 
 -  password:- 123
-
-## Important link
-- 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘃𝗶𝗱𝗲𝗼 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗗𝗲𝗺𝗼 + 𝘀𝘁𝗲𝗽 𝗯𝘆 𝘀𝘁𝗲𝗽 𝗲𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 𝗹𝗶𝗻𝗸 ::---  [  click here  ](https://youtu.be/c6WWdINWSlI) [![youtube][youtube-shield]][youtube-url]
 
 
 ## preview
@@ -99,7 +77,6 @@ ADMIN Module (http://localhost:8080/admin)
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:  https://www.linkedin.com/in/jay-gajera-a6496b204/
-
-[youtube-shield]:https://img.shields.io/youtube/views/c6WWdINWSlI?style=social
-[youtube-url]:  https://youtu.be/c6WWdINWSlI
+#Created by 
+<p>vamshi krishna</p>
 "# E-commerce-" 
